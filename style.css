@@ -1,0 +1,40 @@
+*{margin: 0px;}
+body{
+    background-color: lightcyan;
+}
+.head{
+    width: 100%;
+    background-color: darkcyan;
+    color: aliceblue;
+}
+h1{
+    font-size: 34px;
+    font-family: 'Century Gothic';
+    text-align: right;
+    padding-top: 5%;
+    padding-right: 4%;
+}
+h2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+}
+.Suhoc{
+    padding-top: 5%;
+    padding-left: 3%;
+    height: 30px;
+    width: 30px;
+}
+main{
+    position: fixed;
+}
+p{
+    padding-left: 4%;
+    padding-top: 113%;
+    font-size: 37px;
+}
+.non{
+    padding-left: 4%;
+    padding-top: 113%;
+    font-size: 30px;
+}
